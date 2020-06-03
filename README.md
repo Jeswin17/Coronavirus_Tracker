@@ -1,6 +1,6 @@
 :mask: Simple Tracker App for Coronavirus Cases around the World :mask:
 
-API : https://covid19.mathdro.id/api 
+**API : https://covid19.mathdro.id/api**
 
 
 
