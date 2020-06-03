@@ -1,7 +1,10 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-
+## Global Tracker
 ![screencapture-localhost-3000-2020-06-03-12_05_44](https://user-images.githubusercontent.com/43417744/83595260-14be9a80-a594-11ea-8c3d-b051623fd52f.png) 
+
+## Country Tracker
+![screencapture-localhost-3000-2020-06-03-12_17_32](https://user-images.githubusercontent.com/43417744/83595326-459ecf80-a594-11ea-891e-5a1ef2c65400.png)
 ### `npm start`
 
 Runs the app in the development mode.<br />
